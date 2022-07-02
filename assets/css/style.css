@@ -219,3 +219,8 @@ section div button {
 .text-right {
   text-align: right;
 }
+
+.contact-info div {
+  background-color: #024e76;
+  color: #fce138;
+}
