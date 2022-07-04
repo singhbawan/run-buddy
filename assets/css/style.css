@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+a {
+  text-decoration: none;
+  color: inherit;
+}
 
 body {
   /* more on this crazy alphanumerical value in a minute! */
@@ -219,8 +223,43 @@ section div button {
 .text-right {
   text-align: right;
 }
-
-.contact-info div {
+.contact {
   background-color: #024e76;
+  text-align: center;
+  overflow: auto;
+}
+
+.contact h2 {
   color: #fce138;
+}
+
+.contact-info iframe {
+  height: 400px;
+  width: 400px;
+}
+.contact-info div {
+  width: 410px;
+  display: inline-block;
+  vertical-align: top;
+  text-align: left;
+  margin: 30px 0 0 60px;
+  color: white;
+}
+
+.contact-info div h3 {
+  color: #fce138;
+  font-size: 32px;
+}
+
+.contact-info div p,
+.contact-info div address {
+  margin: 20px 0;
+  line-height: 1.5;
+  font-size: 20px;
+  font-style: normal;
+}
+
+#email-link {
+  color: #fce138;
+  text-decoration: underline;
 }
