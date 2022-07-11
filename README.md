@@ -1,4 +1,4 @@
-# run-buddy
+# run Buddy , Inc
 
 ## Purpose
 
@@ -17,4 +17,4 @@ https://singhbawan.github.io/run-buddy/
 
 Made with ❤️ by Bawandeep Singh
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
