@@ -14,3 +14,5 @@ https://singhbawan.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Bawandeep Singh
+
+### ©️2019 Run Buddy, Inc 
